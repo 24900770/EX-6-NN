@@ -20,8 +20,8 @@ Step 11:Plot the error convergence during training using plt.plot() and plt.show
 
 ```py
 
-# Developed by : EASWAR R
-# Register. No : 212223230053
+# Developed by : HARIHARAN M
+# Register. No : 212224100019
 
 import numpy as np
 import pandas as pd
